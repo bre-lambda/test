@@ -364,7 +364,8 @@ No known Bugs.
 
 
 
-Behailu Fentaw 
+Behailu Fentaw <behailugobeziefentaw@gmail.com>
+
 Birhanu eniyew : [LinkedIn/] | [GitHub/bre-lambda]
 
 ## AUTHOR DESCRIPTION (Birhanu Eniyew)
