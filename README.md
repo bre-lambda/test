@@ -364,36 +364,8 @@ No known Bugs.
 
 
 
-Alemseged Fekede : [LinkedIn/inès] | [GitHub/inès] \
+Behailu Fentaw 
+Birhanu eniyew : [LinkedIn/] | [GitHub/bre-lambda]
 
-Biniyam Endale : [LinkedIn/] | [GitHub/bini-fufu]
-
-
-
-[linkedin/bini-fufu]: https://www.linkedin.com/in/biniyam-endale-904603124
-
-[linkedin/alemsegedf]: https://www.linkedin.com/in/alemsegedf
-
-[github/bini-fufu]: https://github.com/bini-fufu
-
-[github/alemsegedf]: https://github.com/AlemsegedF
-
-
-
-## AUTHOR DESCRIPTION (Alemsegd Fekede)
-
-
-
-- I'm an Aircraft Engineer and a software engineering student at ALX/ Holborton school.
-
-- I am also studying cloud computing at Google Africa Developers Scholarship,ALC and PluralSight partnership.
-
-
-
-## AUTHOR DESCRIPTION (Biniyam Endale)
-
-
-
-- I'm  a Software Engineering Graduate from Addis Ababa University and a student at ALX/HOLBORTON school.
-
+## AUTHOR DESCRIPTION (Birhanu Eniyew)
 
